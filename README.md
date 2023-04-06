@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamza shuaibu
-- 👀 I’m interested in Cyber security, networking and back end development 
+- 👀 I’m interested in Cyber security, networking and fullstack web developmet
 - 🌱 I’m currently learning networking/python 
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on ay project
 - 📫 How to reach me hamzashuaibu1234@gmail.com
 
 <!---
