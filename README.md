@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hamza shuaibu
-- 👀 I’m interested in Cyber security, networking and fullstack web developmet
-- 🌱 I’m currently learning networking/python 
+- 👀 I’m interested in Cyber security, networking and web3 security 
+- 🌱 I’m currently learning web3 security 
 - 💞️ I’m looking to collaborate on ay project
-- 📫 How to reach me hamzashuaibu1234@gmail.com
+- 📫 How to reach me hamzaonchain@gmail.com
 
 <!---
 Hamzashuaibu/Hamzashuaibu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
